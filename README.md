@@ -1,2 +1,3 @@
 # typescript-blockchain
-study with nomad coder lecture
+
+Learining Typescript by Making a Blockchain with it.
